@@ -1,0 +1,34 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#0F172A"/>
+  <text x="70" y="65" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Service Blueprint Overview</text>
+
+  <rect x="70" y="95" width="200" height="240" rx="18" fill="#111827" stroke="#334155"/>
+  <text x="108" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">User</text>
+  <text x="98" y="177" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Simulate</text>
+  <text x="95" y="210" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Verify</text>
+  <text x="90" y="243" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Review</text>
+  <text x="92" y="276" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Confirm</text>
+
+  <rect x="300" y="95" width="210" height="240" rx="18" fill="#1E293B" stroke="#475569"/>
+  <text x="333" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Frontstage</text>
+  <text x="327" y="177" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">App</text>
+  <text x="327" y="210" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Status</text>
+  <text x="327" y="243" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Messages</text>
+  <text x="327" y="276" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Support</text>
+
+  <rect x="540" y="95" width="230" height="240" rx="18" fill="#0B1120" stroke="#475569"/>
+  <text x="575" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Backstage</text>
+  <text x="571" y="177" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Credit review</text>
+  <text x="571" y="210" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Risk ops</text>
+  <text x="571" y="243" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Support flow</text>
+  <text x="571" y="276" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Case review</text>
+
+  <rect x="800" y="95" width="210" height="240" rx="18" fill="#111827" stroke="#475569"/>
+  <text x="832" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Systems</text>
+  <text x="825" y="177" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">API</text>
+  <text x="825" y="210" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Fraud engine</text>
+  <text x="825" y="243" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Scoring</text>
+  <text x="825" y="276" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">CRM</text>
+
+  <text x="70" y="372" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Goal: connect experience, risk, operations, and technology.</text>
+</svg>

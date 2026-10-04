@@ -1,5 +1,9 @@
 # Slide deck sugerido
 
+<p align="center">
+  <img src="./assets/journey-financing.svg" alt="Customer journey in financing flow" width="100%" />
+</p>
+
 ## Slide 1: Título
 Designing Trust
 Service Design for Risk & Fraud
@@ -13,6 +17,10 @@ Financiamento de veículos em app bancário.
 ## Slide 4: Jornada do cliente
 Simulação → documentos → análise → aprovação/revisão → contrato.
 
+<p align="center">
+  <img src="./assets/journey-financing.svg" alt="Journey financing flow" width="100%" />
+</p>
+
 ## Slide 5: Pontos de fricção
 - excesso de etapas;
 - falta de clareza;
@@ -22,6 +30,10 @@ Simulação → documentos → análise → aprovação/revisão → contrato.
 
 ## Slide 6: Service blueprint
 Conexão entre usuário, operação, regras, dados e tecnologia.
+
+<p align="center">
+  <img src="./assets/blueprint-overview.svg" alt="Service blueprint overview" width="100%" />
+</p>
 
 ## Slide 7: Pesquisa qualitativa
 Entrevistas com usuários para entender dúvidas, hesitações e pontos de abandono.

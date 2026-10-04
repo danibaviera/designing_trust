@@ -1,5 +1,9 @@
 # Presentation Pack
 
+<p align="center">
+  <img src="./assets/hero-overview.svg" alt="Hero overview of the project" width="100%" />
+</p>
+
 Este diretório reúne os materiais visuais e narrativos do case para apresentação em entrevista, portfólio ou pitch.
 
 ## Estrutura
