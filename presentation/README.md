@@ -14,6 +14,12 @@ Este diretório reúne os materiais visuais e narrativos do case para apresenta�
 - [04-slide-deck.md](04-slide-deck.md)
 - [05-notes-entrevista.md](05-notes-entrevista.md)
 
+## Blueprint visual
+
+<p align="center">
+  <img src="./assets/blueprint-service-design.svg" alt="Service blueprint in visual format" width="100%" />
+</p>
+
 ## Objetivo
 Apresentar o projeto de forma clara, profissional e convincente, com foco em:
 
